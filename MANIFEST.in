@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_queueplanifier/templates *
+recursive-include octoprint_queueplanifier/translations *
+recursive-include octoprint_queueplanifier/static *
